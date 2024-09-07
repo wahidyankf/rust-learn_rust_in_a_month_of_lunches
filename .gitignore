@@ -1,0 +1,36 @@
+# Binaries for programs and tests
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Executable-only binaries
+*.elf
+
+# Test, build, and release artifacts
+/target/
+**/target/
+
+# Cargo package manager files
+Cargo.lock
+.cargo/
+
+# Rust project files
+*.rs.bk
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.log
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
