@@ -34,3 +34,4 @@ Cargo.lock
 
 # Windows specific files
 Thumbs.db
+target
